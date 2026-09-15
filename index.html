@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Lista de presentes do Chá de Casa Nova de Tayná & Jean.">
+  <title>Chá de Casa Nova — Tayná & Jean</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__overlay">
+      <p class="eyebrow">NOSSO NOVO LAR</p>
+      <h1>Chá de Casa Nova</h1>
+      <p class="couple">Tayná <span>&</span> Jean</p>
+      <p class="intro">Estamos preparando nosso cantinho com muito amor e queremos celebrar esse novo começo ao lado de pessoas especiais.</p>
+      <a class="scroll-btn" href="#lista">Ver lista de presentes</a>
+    </div>
+  </header>
+
+  <main id="lista" class="container">
+    <section class="section-head">
+      <div>
+        <p class="eyebrow">COM CARINHO</p>
+        <h2>Escolha um presente para o nosso novo lar</h2>
+        <p class="muted">Se você comprar um dos itens, clique em <strong>“Já comprei”</strong> para avisar aos outros convidados.</p>
+      </div>
+      <div class="counter"><strong id="availableCount">0</strong><span>disponíveis</span></div>
+    </section>
+
+    <section class="toolbar" aria-label="Filtros da lista">
+      <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Buscar presente..." autocomplete="off"></label>
+      <div id="categories" class="categories"></div>
+    </section>
+
+    <div id="status" class="status" role="status"></div>
+    <section id="grid" class="grid" aria-live="polite"></section>
+  </main>
+
+  <footer>
+    <div class="footer-card">
+      <p class="eyebrow">NOSSO NOVO LAR</p>
+      <h2>Obrigado por fazer parte desse momento.</h2>
+      <p>Cada presente, gesto e carinho ajudam a tornar nosso novo lar ainda mais especial. ❤️</p>
+      <p class="signature">Tayná & Jean</p>
+    </div>
+  </footer>
+
+  <dialog id="confirmDialog">
+    <div class="dialog">
+      <button class="close" id="closeDialog" aria-label="Fechar">×</button>
+      <p class="eyebrow">CONFIRMAÇÃO</p>
+      <h3>Você já comprou este presente?</h3>
+      <p>Ao confirmar, ele ficará marcado como <strong>Já escolhido</strong> para todos os visitantes.</p>
+      <div class="dialog-actions">
+        <button class="btn btn-secondary" id="cancelConfirm">Ainda não</button>
+        <button class="btn btn-primary" id="confirmBuy">Sim, já comprei</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="products-data.js"></script>
+  <script type="module" src="script.js"></script>
+</body>
+</html>
