@@ -1,0 +1,583 @@
+[
+  {
+    "id": "presente-001",
+    "name": "Boleira Pétalas com Tampa de Vidro 24cm",
+    "category": "Cozinha",
+    "price": "57,50",
+    "url": "https://meli.la/1qEBD2h"
+  },
+  {
+    "id": "presente-002",
+    "name": "Kit 5 Caixas Organizadoras 2L, 4,5L e 17L com Tampa — Bege",
+    "category": "Organização",
+    "price": "78,99",
+    "url": "https://meli.la/14RtnPy"
+  },
+  {
+    "id": "presente-003",
+    "name": "Balde Dobrável com Alça Ecomixshop 10L — Cinza",
+    "category": "Limpeza",
+    "price": "32,88",
+    "url": "https://meli.la/1WEPi9c"
+  },
+  {
+    "id": "presente-004",
+    "name": "Fuê / Fouet de Cozinha Inox 40cm",
+    "category": "Cozinha",
+    "price": "23,20",
+    "url": "https://meli.la/2mwgp6x"
+  },
+  {
+    "id": "presente-005",
+    "name": "Saleiro de Mesa em Cerâmica com Tampa de Madeira — Lyor",
+    "category": "Cozinha",
+    "price": "36,46",
+    "url": "https://meli.la/26KdD8W"
+  },
+  {
+    "id": "presente-006",
+    "name": "Garrafa Térmica de Café 1L Nórdica com Cabo de Madeira",
+    "category": "Cozinha",
+    "price": "55,19",
+    "url": "https://meli.la/2fK3jrR"
+  },
+  {
+    "id": "presente-007",
+    "name": "Escorredor de Louça Inox — Preto",
+    "category": "Cozinha",
+    "price": "82,56",
+    "url": "https://meli.la/1M4jzLA"
+  },
+  {
+    "id": "presente-008",
+    "name": "Jogo de Talheres Faqueiro 24 peças Búzios Tramontina",
+    "category": "Cozinha",
+    "price": "69,89",
+    "url": "https://meli.la/32nA3w9"
+  },
+  {
+    "id": "presente-009",
+    "name": "Kit Utensílios de Silicone para Cozinha — 4 peças",
+    "category": "Cozinha",
+    "price": "35,99",
+    "url": "https://meli.la/2gsnxYX"
+  },
+  {
+    "id": "presente-010",
+    "name": "Chaleira Elétrica Electrolux EEK10 1200W 1,8L Inox",
+    "category": "Eletrodomésticos",
+    "price": "",
+    "url": "https://meli.la/1Qbjnq7"
+  },
+  {
+    "id": "presente-011",
+    "name": "Jogo de 4 Xícaras com Pires 280ml — Cerâmica Verde Pítia",
+    "category": "Cozinha",
+    "price": "54,99",
+    "url": "https://meli.la/1t3Yanu"
+  },
+  {
+    "id": "presente-012",
+    "name": "2 Colheres de Arroz em Silicone — Belakaza",
+    "category": "Cozinha",
+    "price": "22,24",
+    "url": "https://meli.la/2LWLWi7"
+  },
+  {
+    "id": "presente-013",
+    "name": "Jogo de Panelas Solar Tramontina — 6 peças",
+    "category": "Cozinha",
+    "price": "745,32",
+    "url": "https://meli.la/2Zhi2ZS"
+  },
+  {
+    "id": "presente-014",
+    "name": "Cesto de Roupa de Bambu Retangular Dobrável 60L — Bege",
+    "category": "Lavanderia",
+    "price": "54,55",
+    "url": "https://meli.la/1bVQSvZ"
+  },
+  {
+    "id": "presente-015",
+    "name": "Lixeira Inox Preta com Pedal e Tampa de Bambu 3L",
+    "category": "Banheiro",
+    "price": "61,99",
+    "url": "https://meli.la/2gyMh88"
+  },
+  {
+    "id": "presente-016",
+    "name": "Jogo de Toalhas de Banho 4 peças Super Luxo — Prata e Soft",
+    "category": "Banheiro",
+    "price": "111,43",
+    "url": "https://meli.la/1esQXxV"
+  },
+  {
+    "id": "presente-017",
+    "name": "Kit 2 Colheres de Silicone para Cozinha",
+    "category": "Cozinha",
+    "price": "25,11",
+    "url": "https://meli.la/22E3EvX"
+  },
+  {
+    "id": "presente-018",
+    "name": "Jogo de Jantar e Chá 20 peças Unni Brisa Oxford",
+    "category": "Cozinha",
+    "price": "",
+    "url": "https://meli.la/1Ar6z6f"
+  },
+  {
+    "id": "presente-019",
+    "name": "Jogo de Panelas Solar Tramontina — 4 peças",
+    "category": "Cozinha",
+    "price": "595,63",
+    "url": "https://meli.la/2URf8wS"
+  },
+  {
+    "id": "presente-020",
+    "name": "Kit 10 Panos de Chão Xadrez — Algodão",
+    "category": "Limpeza",
+    "price": "26,90",
+    "url": "https://meli.la/2CHEQV5"
+  },
+  {
+    "id": "presente-021",
+    "name": "Kit 3 Toalhas de Rosto Turim — Branco",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://meli.la/13B4rjp"
+  },
+  {
+    "id": "presente-022",
+    "name": "Kit 5 Almofadas Decoração Boho 40x40cm — Verde Oliva",
+    "category": "Quarto",
+    "price": "",
+    "url": "https://meli.la/2qvXyhQ"
+  },
+  {
+    "id": "presente-023",
+    "name": "Aspirador de Pó Vertical Electrolux 1100W 2 em 1",
+    "category": "Eletrodomésticos",
+    "price": "173,00",
+    "url": "https://meli.la/2kkAJGi"
+  },
+  {
+    "id": "presente-024",
+    "name": "Multiprocessador Oster OMPR680 500ml",
+    "category": "Eletrodomésticos",
+    "price": "",
+    "url": "https://meli.la/2uPUexV"
+  },
+  {
+    "id": "presente-025",
+    "name": "Kit 4 Bowls de Cerâmica 390ml",
+    "category": "Cozinha",
+    "price": "63,90",
+    "url": "https://meli.la/1oKPhpx"
+  },
+  {
+    "id": "presente-026",
+    "name": "Rodinho de Pia Preto Premium",
+    "category": "Limpeza",
+    "price": "19,82",
+    "url": "https://meli.la/2bJL2H4"
+  },
+  {
+    "id": "presente-027",
+    "name": "Kit 7 Panos de Prato Atoalhados — Marrom-claro",
+    "category": "Cozinha",
+    "price": "59,90",
+    "url": "https://meli.la/2DYgneS"
+  },
+  {
+    "id": "presente-028",
+    "name": "Kit 5 Panos de Prato Atoalhados — Geométrico",
+    "category": "Cozinha",
+    "price": "59,90",
+    "url": "https://meli.la/2hjWtyA"
+  },
+  {
+    "id": "presente-029",
+    "name": "Ralador de Mesa Sextavado Inox Preto 6 Lados",
+    "category": "Cozinha",
+    "price": "24,90",
+    "url": "https://meli.la/2EK5cdt"
+  },
+  {
+    "id": "presente-030",
+    "name": "Kit 3 Tigelas Electrolux Inox com Tampas — 1,4L/2L/2,6L",
+    "category": "Cozinha",
+    "price": "109,00",
+    "url": "https://meli.la/2BQmAWr"
+  },
+  {
+    "id": "presente-031",
+    "name": "Kit 2 Travesseiros Antiestresse Carbono 50x70cm Camesa",
+    "category": "Quarto",
+    "price": "",
+    "url": "https://meli.la/2dxKN7g"
+  },
+  {
+    "id": "presente-032",
+    "name": "Faqueiro Tramontina Laguna Inox — 91 peças",
+    "category": "Cozinha",
+    "price": "452,37",
+    "url": "https://meli.la/2MoTnts"
+  },
+  {
+    "id": "presente-033",
+    "name": "Jogo de 6 Taças de Vinho 270ml — Vidro",
+    "category": "Cozinha",
+    "price": "76,53",
+    "url": "https://br.shp.ee/LPE7mQV4"
+  },
+  {
+    "id": "presente-034",
+    "name": "Jogo de Jarra 1100ml Diamond + Taças 340ml",
+    "category": "Cozinha",
+    "price": "59,59",
+    "url": "https://br.shp.ee/cVf2CBN3"
+  },
+  {
+    "id": "presente-035",
+    "name": "Jogo 6 Taças Caneladas de Vidro 380ml",
+    "category": "Cozinha",
+    "price": "39,99 - 74,99",
+    "url": "https://br.shp.ee/ERtDEw16"
+  },
+  {
+    "id": "presente-036",
+    "name": "Travessa com Revestimento Cerâmico Antiaderente 24/32cm",
+    "category": "Cozinha",
+    "price": "113,98",
+    "url": "https://br.shp.ee/jEjiy4Bh"
+  },
+  {
+    "id": "presente-037",
+    "name": "Jogo de Facas Tramontina Plenus Preto — 4 peças",
+    "category": "Cozinha",
+    "price": "39,99",
+    "url": "https://br.shp.ee/XBGesfhy"
+  },
+  {
+    "id": "presente-038",
+    "name": "Kit 60 Cabides Redondos Pretos",
+    "category": "Quarto",
+    "price": "38,99",
+    "url": "https://br.shp.ee/7YMaP4Kk"
+  },
+  {
+    "id": "presente-039",
+    "name": "Manta para Sofá 150x200cm 100% Algodão — Cavhome",
+    "category": "Sala",
+    "price": "134,84",
+    "url": "https://br.shp.ee/DERLLCVQ"
+  },
+  {
+    "id": "presente-040",
+    "name": "Jarra de Vidro Diamond Abacaxi 1,2L",
+    "category": "Cozinha",
+    "price": "35,63",
+    "url": "https://br.shp.ee/AAakFRsZ"
+  },
+  {
+    "id": "presente-041",
+    "name": "Conjunto 5 Potes de Vidro com Tampa",
+    "category": "Cozinha",
+    "price": "36,25",
+    "url": "https://br.shp.ee/gjJrzeVu"
+  },
+  {
+    "id": "presente-042",
+    "name": "Conjunto 6 Potes de Vidro Quadrados Herméticos",
+    "category": "Cozinha",
+    "price": "87,47",
+    "url": "https://br.shp.ee/WRxVgmNt"
+  },
+  {
+    "id": "presente-043",
+    "name": "Kit 10 Potes de Vidro Herméticos 1040ml",
+    "category": "Cozinha",
+    "price": "151,91",
+    "url": "https://br.shp.ee/soZcFF2p"
+  },
+  {
+    "id": "presente-044",
+    "name": "Kit 4 Potes de Vidro Redondos com Tampa de Bambu",
+    "category": "Cozinha",
+    "price": "102,91",
+    "url": "https://br.shp.ee/nNsjXS5F"
+  },
+  {
+    "id": "presente-045",
+    "name": "Kit 10 Potes de Vidro 640ml Retangulares Herméticos",
+    "category": "Cozinha",
+    "price": "122,46",
+    "url": "https://br.shp.ee/hibKGac6"
+  },
+  {
+    "id": "presente-046",
+    "name": "Escorredor Inox para Massas, Frutas e Legumes",
+    "category": "Cozinha",
+    "price": "25,90",
+    "url": "https://br.shp.ee/faKgrEtT"
+  },
+  {
+    "id": "presente-047",
+    "name": "Jogo 6 Pratos Rasos Modernos de Porcelana 27cm",
+    "category": "Cozinha",
+    "price": "189,53",
+    "url": "https://br.shp.ee/K5g4wX4z"
+  },
+  {
+    "id": "presente-048",
+    "name": "Lixeira Sensor Automática 20L",
+    "category": "Banheiro",
+    "price": "92,14",
+    "url": "https://br.shp.ee/bMq73nXm"
+  },
+  {
+    "id": "presente-049",
+    "name": "Açucareiro de Cerâmica Oasis 300ml com Colher",
+    "category": "Cozinha",
+    "price": "39,99",
+    "url": "https://br.shp.ee/jtKvcFYB"
+  },
+  {
+    "id": "presente-050",
+    "name": "Jogo de Assadeiras Cerâmicas — 3 tamanhos",
+    "category": "Cozinha",
+    "price": "290,07",
+    "url": "https://br.shp.ee/KspaKwWB"
+  },
+  {
+    "id": "presente-051",
+    "name": "Kit 3 Tigelas / Saladeiras de Vidro com Tampa 2,4L",
+    "category": "Cozinha",
+    "price": "69,99",
+    "url": "https://br.shp.ee/L8pwtL16"
+  },
+  {
+    "id": "presente-052",
+    "name": "Kit 3 Travessas de Vidro Retangulares com Tampa",
+    "category": "Cozinha",
+    "price": "158,50",
+    "url": "https://br.shp.ee/q1oHqqMc"
+  },
+  {
+    "id": "presente-053",
+    "name": "Kit 4 Pegadores Inox — Massa, Salada e Gelo",
+    "category": "Cozinha",
+    "price": "18,90 - 25,91",
+    "url": "https://br.shp.ee/e44apiUj"
+  },
+  {
+    "id": "presente-054",
+    "name": "Kit 6 Bowls Inox com Tampa — Empilháveis",
+    "category": "Cozinha",
+    "price": "97,85",
+    "url": "https://br.shp.ee/yVpEdKnN"
+  },
+  {
+    "id": "presente-055",
+    "name": "Jarra Medidora de Vidro 500ml com Alça",
+    "category": "Cozinha",
+    "price": "29,98",
+    "url": "https://br.shp.ee/eH6g5aJE"
+  },
+  {
+    "id": "presente-056",
+    "name": "Kit 3 Utensílios Inox — Colher de Sorvete, Cortador e Espátula",
+    "category": "Cozinha",
+    "price": "26,59",
+    "url": "https://br.shp.ee/A4ppvk1R"
+  },
+  {
+    "id": "presente-057",
+    "name": "Jogo de Bowl Inox — 5 peças",
+    "category": "Cozinha",
+    "price": "59,99",
+    "url": "https://br.shp.ee/baHGFxTE"
+  },
+  {
+    "id": "presente-058",
+    "name": "Moedor de Pimenta e Temperos em Madeira",
+    "category": "Cozinha",
+    "price": "26,99 - 29,99",
+    "url": "https://br.shp.ee/ZArpkuNd"
+  },
+  {
+    "id": "presente-059",
+    "name": "Porta Azeite Galheteiro de Vidro 370ml — 3 potes + suporte",
+    "category": "Cozinha",
+    "price": "39,90",
+    "url": "https://br.shp.ee/VDHcVV1i"
+  },
+  {
+    "id": "presente-060",
+    "name": "Jogo 7 Peças Wolff Sobremesa Geneva",
+    "category": "Cozinha",
+    "price": "79,89",
+    "url": "https://br.shp.ee/hQNjX9Fe"
+  },
+  {
+    "id": "presente-061",
+    "name": "Kit Cozinha de Silicone com Cabo Inox — 15 peças",
+    "category": "Cozinha",
+    "price": "111,15",
+    "url": "https://br.shp.ee/WW58ZUtW"
+  },
+  {
+    "id": "presente-062",
+    "name": "Centrífuga de Salada Manual 4L",
+    "category": "Cozinha",
+    "price": "31,81",
+    "url": "https://br.shp.ee/RnxytYpU"
+  },
+  {
+    "id": "presente-063",
+    "name": "Kit 6 Recipientes para Frutas e Verduras",
+    "category": "Cozinha",
+    "price": "38,00 - 74,99",
+    "url": "https://br.shp.ee/DyjJjVsM"
+  },
+  {
+    "id": "presente-064",
+    "name": "Kit Tigelas Marinex de Vidro com Tampa",
+    "category": "Cozinha",
+    "price": "42,79",
+    "url": "https://br.shp.ee/bH9HMd4f"
+  },
+  {
+    "id": "presente-065",
+    "name": "Kit 2 Garrafas de Vidro 1L com Tampa Inox",
+    "category": "Cozinha",
+    "price": "52,90 - 64,49",
+    "url": "https://br.shp.ee/cpzdyYjs"
+  },
+  {
+    "id": "presente-066",
+    "name": "Mixer 3 em 1 Electrolux EIB10 400W",
+    "category": "Eletrodomésticos",
+    "price": "189,91",
+    "url": "https://br.shp.ee/GzzGe2xs"
+  },
+  {
+    "id": "presente-067",
+    "name": "Lençol King 4 peças 600 fios 100% algodão + fronhas",
+    "category": "Quarto",
+    "price": "",
+    "url": "https://produto.mercadolivre.com.br/MLB-6203351082-jogo-lencol-king-4-pecas-600-fios-100-algodao-toque-macio-_JM"
+  },
+  {
+    "id": "presente-068",
+    "name": "Travesseiro — Kit 2 Antiestresse Carbono Camesa",
+    "category": "Quarto",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/kit-2-travesseiros-antiestresse-carbono-50x70cm-camesa/p/MLB47536758"
+  },
+  {
+    "id": "presente-069",
+    "name": "Cobertor / Mantinha Casal Queen Microfibra Soft",
+    "category": "Quarto",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/cobertor-mantinha-casal-queen-microfibra-soft-quentinha-luxo/up/MLBU3882673850"
+  },
+  {
+    "id": "presente-070",
+    "name": "Toalha — Jogo 4 peças Fio Cardado Karsten Bosco",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pcs-fio-cardado-100-algodao-bosco-karsten-cinza-bosco/p/MLB53989572"
+  },
+  {
+    "id": "presente-071",
+    "name": "Jogo de Toalhas de Banho 4 peças — Branco e Fendi",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/jogo-toalhas-de-banho-c-4-pcs-super-luxo-gigante-grossa-banco-e-fendi/p/MLB68671858"
+  },
+  {
+    "id": "presente-072",
+    "name": "Jogo de Toalhas Buddemeyer Atena — 4 peças",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-atena-fio-penteado-banho-cinzacinza-claro-4-pecas/p/MLB51334657"
+  },
+  {
+    "id": "presente-073",
+    "name": "Lixeira Inox Preta com Pedal e Tampa de Bambu 3L",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/lixeira-inox-preta-com-pedal-tampa-bambu-3-litros-banheiro/up/MLBU3813613564"
+  },
+  {
+    "id": "presente-074",
+    "name": "Kit Lixeira 5L + Escova Sanitária Inox",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/kit-lixeira-5l--escova-sanitaria-p-banheiro-inox-22918/up/MLBU4132132126"
+  },
+  {
+    "id": "presente-075",
+    "name": "Kit 2 Tapetes para Banheiro Microfibra Chenille",
+    "category": "Banheiro",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/kit-2-tapetes-para-banheiro-microfibra-chenille-macarraozinho-bolinha-super-macio-fofinho-antiderrapante/p/MLB53221577"
+  },
+  {
+    "id": "presente-076",
+    "name": "Cesto de Roupas Sujas Bambu 60L com Tampa",
+    "category": "Lavanderia",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/eps-3903-cesto-roupa-bambu-retangular-dobravel-com-tampa-alcas-60l/p/MLB60396629"
+  },
+  {
+    "id": "presente-077",
+    "name": "Prendedores de Roupa — Esfrebom Bettanin",
+    "category": "Lavanderia",
+    "price": "",
+    "url": "https://www.amazon.com.br/Prendedor-Pl%C3%A1stico-Unidades-Esfrebom-Bettanin/dp/B09JKXFW5J"
+  },
+  {
+    "id": "presente-078",
+    "name": "Varal de Chão com Abas Italar 160cm",
+    "category": "Lavanderia",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/varal-de-chao-com-abas-italar-160cm-resistente-portatil/up/MLBU3318829760"
+  },
+  {
+    "id": "presente-079",
+    "name": "Porta Sabão em Pó Oikos com Dosador",
+    "category": "Lavanderia",
+    "price": "",
+    "url": "https://www.amazon.com.br/Oikos-Porta-Sab%C3%A3o-Transparente-Dosador/dp/B0D1ZRBVBF"
+  },
+  {
+    "id": "presente-080",
+    "name": "Tábua de Passar Roupa Jelplast Mordena",
+    "category": "Lavanderia",
+    "price": "",
+    "url": "https://www.mercadolivre.com.br/tabua-de-passar-roupa-jelplast-mordena-clean-e-eficaz-lisa-prateado/p/MLB70183415"
+  },
+  {
+    "id": "presente-081",
+    "name": "Kit 20 Potes Herméticos — 2,3L / 1,1L / 480ml",
+    "category": "Cozinha",
+    "price": "156,75",
+    "url": "https://br.shp.ee/5sr5ibe"
+  },
+  {
+    "id": "presente-082",
+    "name": "Tábua de Carne Artesanal em Madeira Maciça",
+    "category": "Cozinha",
+    "price": "85,41",
+    "url": "https://br.shp.ee/RfHaqzj7"
+  },
+  {
+    "id": "presente-083",
+    "name": "Bandeja Grande de Madeira Tipo Bambu",
+    "category": "Cozinha",
+    "price": "118,66",
+    "url": "https://br.shp.ee/uCjydDxQ"
+  }
+]
