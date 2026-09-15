@@ -1,17 +1,15 @@
 const state = { products: [], chosen: new Set(), category: "Todos", query: "", pending: null };
 
 // ===== FIREBASE =====
-// Cole aqui a configuração do seu projeto Firebase quando for configurar.
-// O site funciona em modo local enquanto o Firebase não estiver configurado.
 const FIREBASE_CONFIG = {
-  apiKey: "COLE_AQUI",
-  authDomain: "COLE_AQUI",
-  projectId: "COLE_AQUI",
-  storageBucket: "COLE_AQUI",
-  messagingSenderId: "COLE_AQUI",
-  appId: "COLE_AQUI"
+  apiKey: "AIzaSyCzUSPmNqX1QiNZYbQ_BDJJ12XdATcQ6uM",
+  authDomain: "cha-de-casa-nova-tayna-jean.firebaseapp.com",
+  projectId: "cha-de-casa-nova-tayna-jean",
+  storageBucket: "cha-de-casa-nova-tayna-jean.firebasestorage.app",
+  messagingSenderId: "1037404104306",
+  appId: "1:1037404104306:web:d107bc2c72892cd83884eb",
+  measurementId: "G-0HVMMEEX8V"
 };
-
 let firestore = null;
 
 async function initFirebase() {
