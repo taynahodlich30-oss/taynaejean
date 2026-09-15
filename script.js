@@ -1,9 +1,7 @@
 const state = { products: [], chosen: new Set(), category: "Todos", query: "", pending: null };
 
 // ===== FIREBASE =====
-// Cole aqui a configuração do seu projeto Firebase quando for configurar.
-// O site funciona em modo local enquanto o Firebase não estiver configurado.
-const firebaseConfig = {
+const FIREBASE_CONFIG = {
   apiKey: "AIzaSyCzUSPmNqX1QiNZYbQ_BDJJ12XdATcQ6uM",
   authDomain: "cha-de-casa-nova-tayna-jean.firebaseapp.com",
   projectId: "cha-de-casa-nova-tayna-jean",
@@ -12,12 +10,6 @@ const firebaseConfig = {
   appId: "1:1037404104306:web:d107bc2c72892cd83884eb",
   measurementId: "G-0HVMMEEX8V"
 };
-
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
-};
-
 let firestore = null;
 
 async function initFirebase() {
@@ -81,9 +73,6 @@ function render() {
   grid.innerHTML = list.map(p => {
     const chosen = state.chosen.has(p.id);
     return `<article class="card ${chosen ? "chosen" : ""}">
-      <div class="product-image-wrap">
-        <img class="product-image" src="${productImage(p)}" alt="${escapeAttr(p.name)}" loading="lazy" onerror="this.onerror=null;this.src=categoryImage(p.category)">
-      </div>
       <div class="card-top">
         <span class="tag">${escapeHtml(p.category)}</span>
         ${chosen ? '<span class="chosen-badge">Já escolhido</span>' : ""}
@@ -141,25 +130,6 @@ async function confirmPurchase() {
 function closeDialog() {
   document.querySelector("#confirmDialog").close();
   state.pending = null;
-}
-
-function productImage(product) {
-  const query = encodeURIComponent(`${product.name} ${product.category}`);
-  return `https://loremflickr.com/640/480/${query}`;
-}
-
-function categoryImage(category) {
-  const queries = {
-    "Cozinha": "kitchen,cookware",
-    "Organização": "home,organization",
-    "Limpeza": "cleaning,household",
-    "Banheiro": "bathroom,home",
-    "Lavanderia": "laundry,home",
-    "Quarto": "bedroom,home",
-    "Sala": "living-room,home",
-    "Eletrodomésticos": "kitchen,appliance"
-  };
-  return `https://loremflickr.com/640/480/${encodeURIComponent(queries[category] || "home")}`;
 }
 
 function escapeHtml(value) {
